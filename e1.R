@@ -1,2 +1,2 @@
-x<-norm(100)
+x<-rnorm(100)
 hist(x)
